@@ -1,0 +1,14 @@
+{
+  "name": "youtube-api",
+  "version": "1.0.0",
+  "description": "YouTube Downloader API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.5",
+    "cors": "^2.8.5"
+  }
+}
